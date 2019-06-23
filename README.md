@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Extensions
+=======
+# extensions
+# Extensions
+>>>>>>> 9604d18ab5c92ac686f96ecb0c233e04b33d0a73
 
 <p align="center">
  <a href="https://forum.xda-developers.com/nokia-7-plus/themes/magisk-module-nokia-extensions-android-t3865438"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
